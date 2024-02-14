@@ -1,4 +1,3 @@
-# n_baz
 
 A new Flutter project.
 
